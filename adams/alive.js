@@ -1,8 +1,8 @@
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [SIR BRAVIN EDITION]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
-//  >> Scripted by Sir Ibrahim Adams                                    
-//  >> Version: 8.3.5-quantum.7
+//  >> Scripted by Sir bravin                                    
+//  >> Version: 8.3.5-sir bravin Bot
 
 const axios = require('axios');
 const cheerio = require('cheerio');
