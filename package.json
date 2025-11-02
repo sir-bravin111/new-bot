@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwmxmd",
+  "name": "whatsapp bot",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -25,7 +25,7 @@
     "whatsapp-bot",
     "Ibrahim-Adams"
   ],
-  "author": "Ibrahim Adams",
+  "author": "sir bravin",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",        
