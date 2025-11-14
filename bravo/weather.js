@@ -6,7 +6,7 @@
 
 const axios = require('axios');
 const cheerio = require('cheerio');
-const adams = require(__dirname + "/../config");
+const bravo = require(__dirname + "/../config");
 
 async function fetchWEATHERUrl() {
   try {
