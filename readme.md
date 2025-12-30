@@ -11,7 +11,7 @@
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuNTFyYW1ydDNhdzM0aWg4YzM1YXVwNHNieGlpMXVkdGdlbHV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeLcArwlg6j4sMw/giphy.gif?" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhOXd0YXhtNDVzdXFsaGZmazJ2bTNoMnprMjJpN2tpMmI0MW1sZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSA5X6x8GQ8hm7y7SC/giphy.gif" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
