@@ -118,6 +118,7 @@ class HybridConfigManager {
                 AUTO_REJECT_CALL: process.env.AUTO_REJECT_CALL || 'no',
                 WELCOME_MESSAGE: process.env.WELCOME_MESSAGE || 'no',
                 GROUPANTILINK: process.env.GROUPANTILINK || 'no',
+                GROUP_ANTIMENTION: 'yes',
                 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || 'no'
             }
         };
