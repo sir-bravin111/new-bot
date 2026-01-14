@@ -360,7 +360,7 @@ module.exports = {
     GURL: 'https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m',
     OWNER_NAME: process.env.OWNER_NAME || "",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    BOT: process.env.BOT_NAME || 'jeepers creeper ke',
+    BOT: process.env.BOT_NAME || 'Audi-rsb',
     BWM_XMD: hybridConfig.buildContentLayer(),
     HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
     HEROKU_APY_KEY: process.env.HEROKU_APY_KEY,
