@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+AUDI+RSB+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;🫴+Crafted+by+sir+bravin+🎁;💯+Fast+💯+Secure+🌺+Reliable+💕" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+AUDI+-+RSB+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;🫴+Crafted+by+sir+bravin+🎁;💯+Fast+💯+Secure+🌺+Reliable+💕" alt="Typing Animation">
 </h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFtMmc1am9iaGNtY2V4MDExMGM3Z3A2aWR6OWpreWozYXY5eDFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6lryLXS2kZ5Mz3Maxa/giphy.gif" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
@@ -15,7 +15,7 @@
 
 <!-- Quantum Pulse - Activity Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Alive;💬+Responding+to+your+messages;♥️+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="jeepers creeper Pulse Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Alive;💬+Responding+to+your+messages;♥️+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="audi-rsb Pulse Animation">
 </p>
 
 <!-- Banner Image -->
