@@ -1,3 +1,5 @@
+SIR BRAVIN NEW VERSION
+
 ![Powered By sir bravin tech](https://github.com/suzuki-0000/CountdownLabel/raw/master/Screenshots/example01.gif)
 
 
@@ -7,14 +9,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+JËËPËRS+CREEPERS+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;🫴+Crafted+by+sir+bravin+🎁;💯+Fast+💯+Secure+🌺+Reliable+💕" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+AUDI+RSB;🔥+The+Most+Powerful+WhatsApp+Bot;🫴+Crafted+by+sir+bravin+🎁;💯+Fast+💯+Secure+🌺+Reliable+💕" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuNTFyYW1ydDNhdzM0aWg4YzM1YXVwNHNieGlpMXVkdGdlbHV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeLcArwlg6j4sMw/giphy.gif?" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
-</p>
-
 
 <!-- Quantum Pulse - Activity Animation -->
 <p align="center">
